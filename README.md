@@ -1,6 +1,6 @@
 # Karatsuba-Algorithm
 
-The Karatsuba algorithm is a fast multiplication algorithm.
+The Karatsuba algorithm is a fast multiplication algorithm for big numbers.
 
 For Example:
 To compute the product of 12345 and 6789, where B = 10, choose m = 3. We use m right shifts for decomposing the input operands using the resulting base (Bm = 1000), as:
